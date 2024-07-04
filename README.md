@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**MrNobody0x1/MrNobody0x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```c
+#include <stdio.h>
 
-Here are some ideas to get you started:
+int main() {
+    printf("my name is MrNobody0x1 \n");
+    printf("CyberSecurity Professional \n");
+    printf("Living in Brazil \n");
+    
+    return 0;
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```
