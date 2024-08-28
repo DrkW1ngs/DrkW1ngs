@@ -7,7 +7,7 @@ int main() {
 }
 ```
 
-Olá! Meu nome é **Enzo Santana**, mas sou conhecido online como **Trinity**. Sou um entusiasta de **cibersegurança** e **programação**, atualmente morando no Brasil.
+Olá! Meu nome é **Enzo Santana**, Sou um entusiasta de **cibersegurança** e **programação**, atualmente morando no Brasil.
 
 ---
 
@@ -30,4 +30,4 @@ Você pode me contatar pelo:
 
 ## Minhas Estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=triniity1337&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoSantz&theme=blue-green)
