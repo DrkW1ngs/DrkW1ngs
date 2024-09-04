@@ -30,4 +30,4 @@ Você pode me contatar pelo:
 
 ## Minhas Estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoSantz&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iHomuraa&theme=blue-green)
