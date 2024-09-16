@@ -7,7 +7,7 @@ int main() {
 }
 ```
 
-Olá! Meu nome é **Enzo Santana**, Sou um entusiasta de **cibersegurança** e **programação**, atualmente morando no Brasil.
+Olá! Meu nome é **Enzo Santana**, Sou um entusiasta de **cibersegurança** e **programação**, pwek...
 
 ---
 
