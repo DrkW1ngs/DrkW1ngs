@@ -30,4 +30,4 @@ Você pode me contatar pelo:
 
 ## Minhas Estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reaper64x&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NvaChronos&theme=blue-green)
