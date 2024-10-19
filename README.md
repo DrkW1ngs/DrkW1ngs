@@ -63,7 +63,7 @@ Você pode me encontrar e conversar comigo através de:
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaterasu32x&show_icons=true&theme=blue-green&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaterasu32x&layout=compact&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xBadOwl&show_icons=true&theme=blue-green&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xBadOwl&layout=compact&theme=blue-green)
 
 ---
