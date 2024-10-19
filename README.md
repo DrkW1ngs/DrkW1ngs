@@ -5,7 +5,7 @@
 
 void printIntroduction() {
     printf("===================================\n");
-    printf("      Apresentação Profissional     \n");
+    printf("          Apresentação             \n");
     printf("===================================\n");
     printf("Olá! Eu sou Enzo Santana.\n");
     printf("Interesses: Cibersegurança, Programação, Mecatrônica.\n");
