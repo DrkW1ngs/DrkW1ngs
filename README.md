@@ -24,7 +24,7 @@ int main() {
 
 ## `🚀` Tecnologias de maior uso:
 
-[![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vscode,arch,windows)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,react,js,c,python,bash,powershell,vscode,arch,windows)](https://skillicons.dev)
 
 ---
 
