@@ -1,4 +1,4 @@
-## `👋` Enzo Santana (EnzoSantz)
+## `👋` Enzo Santana (0xRyuuzaki)
 
 <strong> Sou desenvolvedor com interesse em programação e cibersegurança. Sempre em busca de aprender mais sobre segurança digital e explorar novas tecnologias. Focado em soluções eficientes e seguras. </strong>
 
@@ -14,7 +14,7 @@
 
 Estou sempre praticando em Capture the Flags (CTF):
 
-- [TryHackMe](https://tryhackme.com/p/EnzoSantz)
+- [TryHackMe](https://tryhackme.com/p/0xRyuuzaki)
 - [Hack The Box](https://app.hackthebox.com/profile/1411577)
 
 ---
@@ -23,7 +23,7 @@ Estou sempre praticando em Capture the Flags (CTF):
 
 Atualmente, participo de programas de Bug Bounty em:
 
-- [HackerOne](https://www.hackerone.com/EnzoSantz)
+- [HackerOne](https://www.hackerone.com/0xRyuuzaki)
 - [Bugcrowd](https://www.bugcrowd.com/EnzoSantz)
  ---
  
