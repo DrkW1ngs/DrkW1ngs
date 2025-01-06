@@ -14,7 +14,7 @@
 
 Estou sempre praticando em Capture the Flags (CTF):
 
-- [TryHackMe](https://tryhackme.com/p/0xRyuuzaki)
+- [TryHackMe](https://tryhackme.com/p/Enz0san)
 - [Hack The Box](https://app.hackthebox.com/profile/1411577)
 
 ---
@@ -23,7 +23,7 @@ Estou sempre praticando em Capture the Flags (CTF):
 
 Atualmente, participo de programas de Bug Bounty em:
 
-- [HackerOne](https://www.hackerone.com/0xRyuuzaki)
+- [HackerOne](https://www.hackerone.com/Enz0san)
 - [Bugcrowd](https://www.bugcrowd.com/EnzoSantz)
  ---
  
@@ -41,5 +41,5 @@ Você pode me encontrar e conversar comigo através de:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzosantana0zen@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EnzoSantz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-santana)
 
