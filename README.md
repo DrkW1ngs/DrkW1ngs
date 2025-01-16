@@ -6,7 +6,7 @@
 
 ## `🚀` Tecnologias de maior uso:
 
-[![](https://skillicons.dev/icons?i=c,rust,python,bash,powershell,vscode,windows)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,python,bash,powershell,vscode)](https://skillicons.dev)
 
 ---
 
